@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+
+}
+.inputHolder{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 30%;
+    width: 50%;
+}
+
+.showToDos{
+    padding: 10px;
+}
+
+.singleToDo{
+    padding: 10px;
+}
+
+.mainContainer{
+}
+
+.header{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
